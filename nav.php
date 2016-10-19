@@ -1,7 +1,7 @@
 <body>
 <div class="w960 h-t">
 	<div style="float:left;">
-		<a href="http://www.chinagreengrow.com/">
+		<a href="/">
 			<img alt="" src="/images/logo.jpg">
 		</a>
 	</div>
